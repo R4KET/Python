@@ -1,0 +1,1 @@
+A small application for calculating the critical path and drawing a Gantt schedule
