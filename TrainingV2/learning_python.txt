@@ -1,0 +1,3 @@
+In Python you can write clear and concise code.
+In Python you can easily work with lists, dictionaries, and other data structures.
+In Python you can create functions and classes to organize your code.
