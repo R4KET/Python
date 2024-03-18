@@ -40,16 +40,3 @@ class Privileges:
         print("Admin privileges:")
         for privilege in self.privileges:
             print(f"- {privilege}")
-
-#privileges = ["can add post", "can delete post", "can ban user"]
-#admin = Admin("Adam", "Lopez", "SuperAdmin", "11-11-1985", privileges)
-#admin.describe_user()
-#admin.privileges.show_privileges()
-
-#user = User("John", "Kicinsky", "JK2137", "10-10-1991")
-#user.describe_user()
-#user.attempts()
-#user.increment_login_attempt()
-#user.attempts()
-#user.reset_login_attempts()
-#user.attempts()
