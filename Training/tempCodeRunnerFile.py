@@ -1,2 +1,2 @@
 
-    print("Musimy znaleźć jakichś użytkowników!")
+elif age >= 13 and age < 20:
